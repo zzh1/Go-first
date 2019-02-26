@@ -16,7 +16,7 @@ func main(){
 	var d int64 = 4 //4字节
 	fmt.Println(a,b,c,d)
 
-	//无符号整数，只能表示非负数
+	//无符号整数，只能表示非负数  
 	var ua uint8 = 1 
 	var ub uint16 = 2
 	var uc uint32 = 3
